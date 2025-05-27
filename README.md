@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm FSorte</h1>
 <h3 align="center">Senior</h3>
 
-<p align="left"> <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-" alt="fsorte" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=f-sorte" alt="fsorte" /> </p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
