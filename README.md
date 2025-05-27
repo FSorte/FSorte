@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fsorte&label=Profile%20views&color=0e75b6&style=flat" alt="fsorte" /> </p>
 
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=wowBlaBla&column=7&theme=onedark"/>
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fsorte" alt="fsorte" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
