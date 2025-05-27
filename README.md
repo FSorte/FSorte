@@ -2,7 +2,7 @@
 <h3 align="center">Senior</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fsorte" alt="fsorte" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fsorte&rank=S" alt="fsorte" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
